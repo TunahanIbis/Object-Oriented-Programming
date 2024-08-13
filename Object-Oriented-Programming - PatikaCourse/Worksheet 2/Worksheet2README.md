@@ -5,13 +5,15 @@ Animals:
 
 - Felines (tigers, lions, etc.),
 
-- It is characterized by species in groups such as rodents (rats, beavers, etc.).
+- Rodents (rats, beavers, etc.).
+
+Details:
 
 - Most of the information stored about animals is the same for all groupings.
 
-- species name, weight, age, etc.
+- Species name, weight, age, etc.
 
 
-The system should also be able to get the dosage of specific drugs for each animal => getDosage()
+* The system should also be able to get the dosage of specific drugs for each animal => getDosage()
 
-System should be able to calculate Feed timings => getFeedSchedule()
+* System should be able to calculate Feed timings => getFeedSchedule()
