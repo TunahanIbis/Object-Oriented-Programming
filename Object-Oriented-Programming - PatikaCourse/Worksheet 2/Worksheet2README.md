@@ -19,3 +19,5 @@ Exceptions:
 * The system should also be able to get the dosage of specific drugs for each animal => getDosage()
 
 * System should be able to calculate Feed timings => getFeedSchedule()
+  <br>
+  <b>Draw the Class diagram depicting this system.</b>
