@@ -7,6 +7,6 @@
 
 * Every employee works in an office.
 <br>
-Draw the Class diagram depicting this system.
-
-Note: There is no need to specify the attributes and behaviors of the classes.
+**Draw the Class diagram depicting this system.**
+<br>
+*Note: There is no need to specify the attributes and behaviors of the classes.*
