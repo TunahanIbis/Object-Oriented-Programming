@@ -6,7 +6,7 @@ Animals:
 - Felines (tigers, lions, etc.)
 
 - Rodents (rats, beavers, etc.)
-
+<br>
 Details:
 
 - Most of the information stored about animals is the same for all groupings.
