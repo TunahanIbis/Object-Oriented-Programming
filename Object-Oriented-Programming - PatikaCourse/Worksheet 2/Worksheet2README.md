@@ -1,11 +1,11 @@
 # OOP Patika.dev Course Worksheet 2
 Animals:
 
-- Horses (horses, zebras, donkeys, etc.),
+- Horses (horses, zebras, donkeys, etc.)
 
-- Felines (tigers, lions, etc.),
+- Felines (tigers, lions, etc.)
 
-- Rodents (rats, beavers, etc.).
+- Rodents (rats, beavers, etc.)
 
 Details:
 
@@ -13,6 +13,7 @@ Details:
 
 - Species name, weight, age, etc.
 
+<br>
 
 * The system should also be able to get the dosage of specific drugs for each animal => getDosage()
 
