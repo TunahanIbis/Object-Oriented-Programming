@@ -1,5 +1,5 @@
 # OOP Patika.dev Course Worksheet 2
-Animals:
+Animals (Super Class):
 
 - Horses (horses, zebras, donkeys, etc.)
 
