@@ -14,6 +14,7 @@ Details:
 - Species name, weight, age, etc.
 
 <br>
+Exceptions:
 
 * The system should also be able to get the dosage of specific drugs for each animal => getDosage()
 
