@@ -1,5 +1,5 @@
 # OOP Patika.dev Course Workhseet 3
-<u>Design a system for managing flights and pilots:</u>
+Design a system for managing flights and pilots:
 <br>
 * Airline companies operate the flights.
 * Every airline has an ID.
