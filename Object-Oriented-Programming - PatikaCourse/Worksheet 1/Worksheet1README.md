@@ -9,5 +9,7 @@
 <br>
 
 <b>Draw the Class diagram depicting this system.</b>
+
 <br>
+
 <i>Note: There is no need to specify the attributes and behaviors of the classes.</i>
