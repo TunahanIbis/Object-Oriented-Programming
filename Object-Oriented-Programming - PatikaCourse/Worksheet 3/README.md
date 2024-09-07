@@ -1,5 +1,5 @@
 # OOP Patika.dev Course Workhseet 3
-Design a system for managing flights and pilots:
+I designed a system for managing flights and pilots:
 <br>
 * Airline companies operate the flights.
 * Every airline has an ID.
@@ -11,4 +11,4 @@ Design a system for managing flights and pilots:
 * Airline companies have pilots and each pilot has a level of experience.
 * An aircraft type may require a certain number of pilots.
 <br>
-<b>Draw the Class diagram depicting this system.</b>
+<b>Here's the diagram depicting this system.</b>
